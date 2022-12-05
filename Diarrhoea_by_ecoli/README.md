@@ -1,5 +1,5 @@
 # Sprouting diarrhoea with bloody consequences
-by Polina Bogaichuk, Sergei Fomenko, and Polina Guseva
+by Polina Bogaichuk and Polina Guseva
 
 <br />
 
@@ -9,6 +9,6 @@ What is done:
   - the assembly is annotated and statistically analysed; 
   - k-mers are used to approximate a genome size;
   - the closest relative for the reference is found by 16S rRNA;
-  - multiple drug resistance is obtained by horizontal gene transfer and _Shiga_ toxins by prophage incorporation.
+  - multiple drug resistance is obtained by horizontal gene transfer and _Shiga_ toxins are by prophage incorporation.
 
 > Please, a lab notebook with the whole pipeline and a report attached.
