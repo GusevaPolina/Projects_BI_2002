@@ -9,7 +9,8 @@ Burrows-Wheeler transform, SNPs annotation and analysis) `Tools`: FastQC, Trimmo
   - **Breakthrough flu flew through my door** (deep sequencing analysis with controls, alignment to a reference gene by the
 Burrows-Wheeler transform, SNPs analysis, protein visualisation) `Tools`: FastQC, BWA, samtools, bedtools, VarScan, SWISS-MODEL and PDB MolStar Viewer, Python
   - **Sprouting diarrhoea with bloody consequences** (_de novo_ genome assembly, k-mers analysis, genome annotation, search for the closest relative by nucleoitide and protein sequences, search of virulent factors) `Tools`: FastQC, jellyfish, SPAdes, QUAST, Prokka, Barrnap, Mauve, RefFinder, BLAST, Python
-  - and more coming
+  - **Tardigrades: piglets that bear unique DNA protection** (structural annotation, protein localization, functional prediction) `Tools`: AUGUSTUS, Diamond, BLAST, Python, WoLF PSORT, TargetP, UniProtKB/Swiss-Prot, HmmerWeb
+  - and more coming in 2023
   
 <br />
 
